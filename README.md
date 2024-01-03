@@ -23,3 +23,28 @@ In our pursuit to address these challenges and find effective solutions, I had t
 
 * Improve network performance by implementing data-driven recommendations and solutions derived from the analysis, ensuring a more reliable and seamless mobile communication experience.
 
+# Tools Used
+* Jupyter Notebook (Python)
+* Matplotlib
+* Seaborn
+* Pandas
+* Numpy
+* Folium
+* Datetime
+* Math
+* Plotly.graph_objects
+* Plotly.express
+* Scipy.fft
+* Requests
+* Json
+* Random
+* Geopandas
+* Contextily
+* Statsmodels.api
+* Pyspark
+* Kepler.gl
+* Streamlit
+
+# My Role
+### My contributions to this project include:
+* Combining all
