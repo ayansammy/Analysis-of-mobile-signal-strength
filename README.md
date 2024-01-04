@@ -47,4 +47,19 @@ In our pursuit to address these challenges and find effective solutions, I had t
 
 # My Role
 ### My contributions to this project include:
-* Combining all
+* Consolidated raw datasets from AWS S3 buckets into a meaningful and accessible format, facilitating efficient analysis.
+* Conducted a comprehensive analysis of mobile signal data, including signal power analysis, signal quality analysis, and signal-to-interference plus noise ratio analysis.
+* Performed geospatial analysis to visualize the spread of signal strength data on a map, gaining insights into geographical patterns.
+* Executed Time Series Analysis to uncover trends and patterns in mobile signal strength measurements over time, contributing to a deeper understanding of temporal dynamics.
+* Conducted EDA to map out cell towers propagating poor signals, providing a visual representation of areas with connectivity challenges.
+* Managed project progress using project management tools, specifically Trello, ensuring effective collaboration and tracking milestones.
+* Built the Exploratory Data Analysis page on Streamlit, creating an aesthetically pleasing and user-friendly interface to showcase the project's work.
+* Assisted in developing the Network Locator Engine and Optimization Engine, contributing to the technical backbone of the project.
+*Successfully deployed the Streamlit web application on the cloud (AWS), ensuring accessibility and scalability.
+* Documented the project comprehensively in a white paper, providing a detailed reference for project methodologies, findings, and outcomes.
+* Presented the web application usage and functionality to stakeholders and a general audience, effectively communicating the project's objectives and achievements.
+
+# Project Highlights
+See the attached video for a discussion of the project highlights:
+![Video](Video/ConnectXplorer.webm)
+
