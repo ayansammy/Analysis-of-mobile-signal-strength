@@ -60,6 +60,4 @@ In our pursuit to address these challenges and find effective solutions, I had t
 * Presented the web application usage and functionality to stakeholders and a general audience, effectively communicating the project's objectives and achievements.
 
 # Project Highlights
-Watch the project highlights in the attached video:
-![ConnectXplorer.webm](Video/ConnectXplorer.webm)
-
+Watch the project highlights on [YouTube](https://www.youtube.com/watch?v=Vha8x66qtuI).
