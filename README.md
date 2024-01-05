@@ -134,6 +134,7 @@ In conclusion, our journey has taken us through the world of mobile signal analy
 - **Kwazi Mthembu** (Special Mentor).
 - **Abubakar Gajimi** (Special Mentor).
 - **Devin Pelser** (Special Mentor).
+- **Zintle Faltein-Maqubela** (Internship Coordinator).
 - **ExploreAI Academy** (Academy).
 - **ExploreAI** (Internship).
 
