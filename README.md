@@ -16,13 +16,14 @@ In this project, we tackled these challenges head-on, aiming to optimize mobile 
 * Improve network performance using data-driven recommendations.
 
 # Tools Used
-* Jupyter Notebook (Python)
+* Jupyter Notebook (Python), VS code
 * Matplotlib, Seaborn, Pandas, Numpy
 * Folium, Datetime, Math
 * Plotly.graph_objects, Plotly.express
 * Scipy.fft, Requests, Json, Random
 * Geopandas, Contextily, Statsmodels.api, Pyspark
 * Kepler.gl, Streamlit
+* Visual Studio Code (VS Code)
 
 # My Role
 ## My contributions to this project include:
@@ -34,8 +35,7 @@ In this project, we tackled these challenges head-on, aiming to optimize mobile 
 * Assisted in building Network Locator and Optimization Engines.
 * Deployed the Streamlit web app on AWS.
 * Assisted in the documentation of the project in a comprehensive white paper.
-* Presented the app's usage and functionality to stakeholders.
-
+* Presented the application's usage and functionality to the general audience
  # Project Highlights
  Here are some of the project highlights, 
  ## Scope
@@ -77,7 +77,6 @@ Within our integrated workflow, we ensure the secure storage of all our data in 
 
 
 # Limitations
-We faced some challenges; it wasn't all roses.
 Our data limitations included:
 - Lack of information about the height of cell towers.
 - Absence of details regarding the type of antennas used for mobile signal transmission.
@@ -95,13 +94,10 @@ In conclusion, our journey has taken us through the world of mobile signal analy
 
 **Cell Tower Location Optimization:**
 - Investigating the frequency information transmitted by cell towers reveals a promising avenue for deeper exploration, presenting an opportunity to elevate the network performance of our model. This insight aligns seamlessly with the assumption that the likelihood of encountering disruptive signals due to interference increases in scenarios with clustered towers.
-
 **Strategic Tower Placement:**
 - We propose optimizing cell tower placement through strategic spacing at sufficient distances. This strategy aims to maximize signal strength, effectively mitigating interference and fostering an overall enhancement in network performance.
-
 **Model Enhancement with Frequency Information:**
 - To further improve the efficacy of our tool, we recommend incorporating frequency information into the mobile signal strength data for model enhancement.
-
 **Enhanced Data Collection:**
 - To refine your network strategy, we suggest implementing real-time timestamp recording during data collection. This addition allows the tool to accurately capture the dynamic nature of the dataset, providing invaluable information for more effective Time Series Analysis.
 
