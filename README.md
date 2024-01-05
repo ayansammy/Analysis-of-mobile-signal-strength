@@ -59,5 +59,12 @@ In our pursuit to address these challenges and find effective solutions, I had t
 * Documented the project comprehensively in a white paper, providing a detailed reference for project methodologies, findings, and outcomes.
 * Presented the web application usage and functionality to stakeholders and a general audience, effectively communicating the project's objectives and achievements.
 
-# Project Highlights
-Watch the project highlights on [YouTube](https://www.youtube.com/watch?v=Vha8x66qtuI).
+ # Project Highlights
+ Here are some of the project highlights, 
+ Utilizing ExploreAI's exclusive tool, we conducted a comprehensive analysis of mobile signal strength data during the Johannesburg to Cape Town drive. The valuable insights derived from our analysis empowered us to provide recommendations aimed at enhancing network performance. 
+![Data Points](Images/data_points.PNG)
+ The map above utilizes Kepler.gl to visually depict the journey and signal dynamics, showcasing key points from the drive between Johannesburg and Cape Town.
+
+# Project Demo
+[Here](https://www.youtube.com/watch?v=Vha8x66qtuI) is a video demonstration showcasing our project in action.
+Watch the project highlights on 
