@@ -32,10 +32,10 @@ In this project, we tackled these challenges head-on, aiming to optimize mobile 
 * Conducted geospatial and time series analysis for valuable insights.
 * Managed project progress with Trello.
 * Developed the Exploratory Data Analysis page on Streamlit.
-* Assisted in building Network Locator and Optimization Engines.
 * Deployed the Streamlit web app on AWS.
 * Assisted in the documentation of the project in a comprehensive white paper.
-* Presented the application's usage and functionality to the general audience
+* Presented the application's usage and functionality to stake holders and the general audience.
+
  # Project Highlights
  Here are some of the project highlights, 
  ## Scope
