@@ -16,7 +16,7 @@ In this project, we tackled these challenges head-on, aiming to optimize mobile 
 * Improve network performance using data-driven recommendations.
 
 # Tools Used
-* Jupyter Notebook (Python), VS code
+* Jupyter Notebook (Python)
 * Matplotlib, Seaborn, Pandas, Numpy
 * Folium, Datetime, Math
 * Plotly.graph_objects, Plotly.express
@@ -94,10 +94,13 @@ In conclusion, our journey has taken us through the world of mobile signal analy
 
 **Cell Tower Location Optimization:**
 - Investigating the frequency information transmitted by cell towers reveals a promising avenue for deeper exploration, presenting an opportunity to elevate the network performance of our model. This insight aligns seamlessly with the assumption that the likelihood of encountering disruptive signals due to interference increases in scenarios with clustered towers.
+
 **Strategic Tower Placement:**
 - We propose optimizing cell tower placement through strategic spacing at sufficient distances. This strategy aims to maximize signal strength, effectively mitigating interference and fostering an overall enhancement in network performance.
+
 **Model Enhancement with Frequency Information:**
 - To further improve the efficacy of our tool, we recommend incorporating frequency information into the mobile signal strength data for model enhancement.
+
 **Enhanced Data Collection:**
 - To refine your network strategy, we suggest implementing real-time timestamp recording during data collection. This addition allows the tool to accurately capture the dynamic nature of the dataset, providing invaluable information for more effective Time Series Analysis.
 
