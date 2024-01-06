@@ -5,7 +5,7 @@
 
 # Introduction
 The evolution of mobile communication from 2G to 5G signifies remarkable advancements in speed, capacity, and connectivity. In our interconnected world, mobile devices have become indispensable, supporting various functions. Despite technological strides, challenges like dropped calls, slow data speeds, and connectivity gaps persist.
-In this project, we tackled these challenges head-on, aiming to optimize mobile connectivity. This document provides an overview of our objectives, methodologies, findings, and recommendations. Additionally, a video is included to showcase the aesthetical usage of the web application we've built.
+In this project, we tackled these challenges head-on, aiming to optimize mobile connectivity. This document provides an overview of our objectives, methodologies, findings, application demonstration, and recommendations. Additionally, you'll find a video link included to showcase the aesthetical usage of the web application we've built.
 
 # Objective
 * Conduct in-depth analysis of mobile signal strength data.
