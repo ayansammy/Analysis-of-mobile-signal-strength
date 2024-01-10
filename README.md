@@ -7,7 +7,7 @@
 The evolution of mobile communication from 2G to 5G signifies remarkable advancements in speed, capacity, and connectivity. In our interconnected world, mobile devices have become indispensable, supporting various functions. Despite technological strides, challenges like dropped calls, slow data speeds, and connectivity gaps persist.
 In this project, we tackled these challenges head-on, aiming to optimize mobile connectivity. This document provides an overview of our objectives, methodologies, findings, application demonstration, and recommendations. Additionally, you'll find a video link included to showcase the aesthetical usage of the web application we've built.
 
-# Objective
+# Objectives
 * Conduct in-depth analysis of mobile signal strength data.
 * Utilize large datasets from ExploreAI for comprehensive signal dynamics examination.
 * Explore machine learning for predicting cell tower locations.
@@ -86,10 +86,6 @@ Our data limitations included:
 
 *Adding to the complexity was our limited domain knowledge. As we are not experienced in the field of telecommunications, it took time to grasp our objective and understand the dataset before embarking on the tasks at hand.*
 
-
-# Conclusion
-In conclusion, our journey has taken us through the world of mobile signal analysis, involving the identification of challenges and the development of practical solutions. Starting with understanding the background, we presented our innovative solution and explained the intricacies of our data pipeline. Ultimately, we created a fully functional web application using Streamlit and deployed it to the cloud. Through these efforts, we skillfully navigated the complexities of connectivity.
-
 # Recommendation
 
 **Cell Tower Location Optimization:**
@@ -103,6 +99,11 @@ In conclusion, our journey has taken us through the world of mobile signal analy
 
 **Enhanced Data Collection:**
 - To refine your network strategy, we suggest implementing real-time timestamp recording during data collection. This addition allows the tool to accurately capture the dynamic nature of the dataset, providing invaluable information for more effective Time Series Analysis.
+
+# Conclusion
+In summary, our exploration of mobile signal strength data during the journey from Johannesburg to Cape Town has uncovered crucial insights pivotal for enhancing user experience and optimizing network performance. Leveraging ExploreAI's proprietary tool, we meticulously identified key factors influencing signal quality, such as the distance between cell towers, population density, and physical obstacles. The geospatial analysis distinctly highlighted the impact of tower clustering, with additional considerations of population density and building sizes offering valuable context.
+Furthermore, we elaborated on our solution approach, detailing the steps taken to enhance network performance, and provided insights into our data pipeline, showcasing a comprehensive workflow. The ConnectXplorer application demonstration visually captures the aesthetic utilization of our solution.
+While acknowledging project limitations, we concluded with a set of recommendations aimed at further refining our algorithms and network performance. This holistic approach not only contributes to the optimization of mobile signal strength but also serves as a valuable resource for network planning and enhancement.
 
 # Acknowledgments
 **I extend my heartfelt appreciation to the exceptional team members who collaborated on this project:**
