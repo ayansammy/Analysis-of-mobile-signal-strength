@@ -86,7 +86,7 @@ Our data limitations included:
 
 *Adding to the complexity was our limited domain knowledge. As we are not experienced in the field of telecommunications, it took time to grasp our objective and understand the dataset before embarking on the tasks at hand.*
 
-# Recommendation
+# Recommendations
 
 **Cell Tower Location Optimization:**
 - Investigating the frequency information transmitted by cell towers reveals a promising avenue for deeper exploration, presenting an opportunity to elevate the network performance of our model. This insight aligns seamlessly with the assumption that the likelihood of encountering disruptive signals due to interference increases in scenarios with clustered towers.
